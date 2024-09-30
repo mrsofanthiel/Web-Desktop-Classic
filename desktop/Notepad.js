@@ -48,8 +48,7 @@ Ext.define('MyDesktop.Notepad', {
                         //xtype: 'textarea',
                         id: 'notepad-editor',
                         value: [
-                            'Some <b>rich</b> <span style="color: rgb(255, 0, 0)">text</span> goes <u>here</u><br>',
-                            'Give it a try!'
+                            ''
                         ].join('')
                     }
                 ]
